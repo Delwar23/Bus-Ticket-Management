@@ -1,0 +1,25 @@
+SMAP
+mybookings_jsp.java
+JSP
+*S JSP
+*F
++ 0 mybookings.jsp
+mybookings.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,6:54
+2#1,43:59
+6#0,12:101
+17,21:113
+38,2:135
+39,2:137
+41:139,3
+42,7:142
+49,2:150
+50,6:152
+2#2,20:157
+55#0,4:177
+*E
