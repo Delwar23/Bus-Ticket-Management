@@ -10,7 +10,7 @@
     <div class="container">
                 <div class="footer_inner" style="text-align: center">
                     Developed by ::<br>
-                    ............. . . . .   Imty@z . . . . .................. 
+                    ............. . . . .   Delwar . . . . .................. 
                 </div>
             </div>
 </footer>
